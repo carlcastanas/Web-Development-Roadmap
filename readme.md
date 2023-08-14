@@ -10,7 +10,8 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 4. [Month 4](#month-4)
 5. [Month 5](#month-5)
 6. [Month 6](#month-6)
-7. [Resources](#resources)
+7. [Web Development Jobs](#web-development-jobs)
+8. [Resources](#resources)
 
 ## Month 1
 
@@ -20,10 +21,14 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 | 3-4  | HTML Basics                                                | - Learn about [HTML](https://www.w3schools.com/html/) syntax<br>- Build a personal portfolio webpage |
 | 5-6  | CSS Fundamentals                                          | - Understand [CSS](https://www.w3schools.com/css/) properties and styling techniques<br>- Style your portfolio page |
 
-**Project Idea: Personal Portfolio Website**
-- Create a simple webpage showcasing your skills, projects, and contact information.
-- Use HTML and CSS to structure and style the page.
-- Include a section for projects with links and descriptions.
+**Project Ideas:**
+1. Personal Portfolio Website
+   - Use HTML and CSS to create a portfolio showcasing your projects.
+   - Include sections for skills, experience, and contact information.
+   
+2. Blog Website
+   - Build a blog site using HTML and CSS.
+   - Create multiple blog posts with images and formatted text.
 
 ## Month 2
 
@@ -33,10 +38,14 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 | 3-4  | Introduction to JavaScript                                | - Understand JavaScript fundamentals<br>- Build a simple interactive quiz |
 | 5-6  | DOM Manipulation and Events                               | - Practice modifying web pages using JavaScript<br>- Create a dynamic to-do list application |
 
-**Project Idea: Interactive Quiz Application**
-- Build a quiz app with multiple-choice questions.
-- Use JavaScript to handle user interactions and track scores.
-- Dynamically generate questions and provide instant feedback.
+**Project Ideas:**
+1. Responsive Blog Website
+   - Use CSS grid and flexbox for responsive layout.
+   - Write and display blog posts with featured images.
+
+2. To-Do List App
+   - Create an interactive to-do list using HTML, CSS, and JavaScript.
+   - Add features like task marking and deletion.
 
 ## Month 3
 
@@ -46,10 +55,18 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 | 3-4  | Introduction to Frontend Frameworks                        | - Explore [React](https://reactjs.org/), [Angular](https://angular.io/), and [Vue.js](https://vuejs.org/)<br>- Choose a framework for your next projects |
 | 5-6  | Building Projects with a Frontend Framework               | - Build a personal blog using your chosen framework<br>- Create a portfolio showcasing your projects |
 
-**Project Idea: Personal Blog using React**
-- Use React to create a blog with multiple posts.
-- Implement routing to display individual post pages.
-- Add a commenting feature using a library like Disqus.
+**Project Ideas:**
+1. Weather App
+   - Build a weather app that fetches data from an API.
+   - Use JavaScript to display weather conditions and forecasts.
+
+2. Personal Blog with a Framework
+   - Create a personal blog using React, Angular, or Vue.js.
+   - Explore component-based architecture and routing.
+
+3. Portfolio Website using a Framework
+   - Revamp your portfolio site using a frontend framework.
+   - Showcase projects and skills with dynamic components.
 
 ## Month 4
 
@@ -59,10 +76,14 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 | 3-4  | Working with APIs and Databases                            | - Learn about RESTful APIs and [SQL databases](https://www.w3schools.com/sql/)<br>- Create a simple API-driven project |
 | 5-6  | Building a Backend Project                                 | - Build a full-stack project combining frontend and backend<br>- Implement user authentication and data storage |
 
-**Project Idea: Task Management App with Express and MongoDB**
-- Create a task management app using Node.js with Express.
-- Set up a MongoDB database to store tasks and user information.
-- Implement user authentication for managing tasks.
+**Project Ideas:**
+1. To-Do List App with Backend
+   - Create a full-stack to-do list app using Node.js and MongoDB.
+   - Implement user authentication and store tasks in a database.
+
+2. Blog Platform
+   - Develop a blog platform where users can write and publish posts.
+   - Use a backend framework like Express to manage posts and users.
 
 ## Month 5
 
@@ -72,10 +93,14 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 | 3-4  | Version Control and Collaboration                          | - Learn advanced [Git concepts](https://git-scm.com/doc) and use platforms like [GitHub](https://github.com/)<br>- Collaborate on an open-source project |
 | 5-6  | Deploying Web Applications                                 | - Deploy your full-stack project to platforms like [Heroku](https://www.heroku.com/) or [Netlify](https://www.netlify.com/) |
 
-**Project Idea: Social Media Dashboard with Full-Stack Features**
-- Build a social media dashboard where users can post updates and interact with others.
-- Incorporate real-time updates using WebSockets.
-- Deploy the app to a cloud platform like Heroku.
+**Project Ideas:**
+1. E-Commerce Website
+   - Build an e-commerce site with product listings and a shopping cart.
+   - Implement payment processing using a service like Stripe.
+
+2. Social Media Platform
+   - Create a social media platform where users can post and interact.
+   - Use real-time features for notifications and updates.
 
 ## Month 6
 
@@ -85,10 +110,29 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 | 3-4  | Interview Preparation                                      | - Study data structures and algorithms with [LeetCode](https://leetcode.com/) and [HackerRank](https://www.hackerrank.com/)<br>- Practice solving coding challenges |
 | 5-6  | Mock Interviews and Networking                            | - Practice coding interviews on [Pramp](https://www.pramp.com/) and expand your professional network |
 
-**Project Idea: Personal Portfolio Website Enhancement**
-- Revamp your portfolio website with a modern design and improved user experience.
-- Showcase your best projects and provide detailed case studies.
-- Add a blog section where you write about web development topics.
+**Project Ideas:**
+1. Online Portfolio Platform
+   - Create a platform where users can build and showcase their portfolios.
+   - Allow users to customize design and content.
+
+2. Interactive Learning Platform
+   - Build an interactive platform for learning coding concepts.
+   - Implement quizzes, coding challenges, and progress tracking.
+
+## Web Development Jobs
+
+Here are the average annual salaries for web development jobs in different markets (as of 2023):
+
+| Job Role                 | Average Annual Salary (PHP)   | Average Annual Salary (USD)         | Average Annual Salary (AUD)         |
+|--------------------------|-------------------------------|------------------------------------|------------------------------------|
+| Frontend Developer       | ₱500,000 - ₱800,000          | ₱2,400,000 - ₱3,840,000          | ₱2,940,000 - ₱4,704,000          |
+| Backend Developer        | ₱600,000 - ₱900,000          | ₱2,880,000 - ₱4,320,000          | ₱3,480,000 - ₱5,220,000          |
+| Full-Stack Developer     | ₱700,000 - ₱1,000,000        | ₱3,360,000 - ₱4,800,000          | ₱4,020,000 - ₱5,760,000          |
+| UI/UX Designer           | ₱450,000 - ₱750,000          | ₱2,160,000 - ₱3,600,000          | ₱2,610,000 - ₱4,350,000          |
+| Web Developer (General)  | ₱400,000 - ₱650,000          | ₱1,920,000 - ₱3,120,000          | ₱2,340,000 - ₱3,800,000          |
+
+
+Please note that these salaries can vary based on factors such as location, experience, company size, and industry.
 
 ## Resources
 
