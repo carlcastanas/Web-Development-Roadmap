@@ -32,11 +32,12 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 
 ## Month 2
 
-| Week | Goals                                                      | Tasks                                                  |
-|------|------------------------------------------------------------|--------------------------------------------------------|
-| 1-2  | Intermediate CSS                                           | - Learn about layout and positioning<br>- Create a responsive blog page |
-| 3-4  | Introduction to JavaScript                                | - Understand JavaScript fundamentals<br>- Build a simple interactive quiz |
-| 5-6  | DOM Manipulation and Events                               | - Practice modifying web pages using JavaScript<br>- Create a dynamic to-do list application |
+| Week | Goals                                                      | Tasks                                                  | Resources                                                 |
+|------|------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| 1-2  | Intermediate CSS                                           | - Learn about layout and positioning<br>- Create a responsive blog page | - Learn CSS layout and positioning: [CSS Layout - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)<br>- Responsive Web Design basics: [Responsive Web Design Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/design-and-ux/responsive) |
+| 3-4  | Introduction to JavaScript                                | - Understand JavaScript fundamentals<br>- Build a simple interactive quiz | - JavaScript basics and fundamentals: [JavaScript Basics - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)<br>- Interactive JavaScript tutorial: [JavaScript Interactive Tutorial - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) |
+| 5-6  | DOM Manipulation and Events                               | - Practice modifying web pages using JavaScript<br>- Create a dynamic to-do list application | - Introduction to the DOM: [Introduction to the DOM - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)<br>- JavaScript events and event handling: [Introduction to events - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)<br>- Dynamic Web Pages with JavaScript: [Dynamic Web Pages with JavaScript - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) |
+
 
 **Project Ideas:**
 1. Responsive Blog Website
