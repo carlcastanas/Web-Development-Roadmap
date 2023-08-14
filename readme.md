@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/img/image.gif" alt="Icreatechs Logo">
+  <img src="./assets/gif/web.gif" alt="Icreatechs Logo">
   <h3>6-Month Web Development Training Roadmap</h3>
   <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/Web-Development-Roadmap)](https://github.com/carlcastanas/Web-Development-Roadmap/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/Web-Development-Roadmap)](https://github.com/carlcastanas/Web-Development-Roadmap/network/members)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.Web-Development-Roadmap)
 
