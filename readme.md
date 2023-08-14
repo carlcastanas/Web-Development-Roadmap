@@ -15,11 +15,11 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 
 ## Month 1
 
-| Week | Goals                                                      | Tasks                                                  |
-|------|------------------------------------------------------------|--------------------------------------------------------|
-| 1-2  | Introduction to Web Development                           | - Set up [GitHub](https://github.com/) account<br>- Create [LinkedIn](https://www.linkedin.com/) profile |
-| 3-4  | HTML Basics                                                | - Learn about [HTML](https://www.w3schools.com/html/) syntax<br>- Build a personal portfolio webpage |
-| 5-6  | CSS Fundamentals                                          | - Understand [CSS](https://www.w3schools.com/css/) properties and styling techniques<br>- Style your portfolio page |
+| Week | Goals                                                      | Tasks                                                  | Resources                                                 |
+|------|------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| 1-2  | Introduction to Web Development                           | - Set up [GitHub](https://github.com/) account<br>- Create [LinkedIn](https://www.linkedin.com/) profile | - [GitHub Guide](https://guides.github.com/activities/hello-world/)<br>- [LinkedIn Profile Tips](https://www.linkedin.com/pulse/linkedin-profile-extreme-makeover-2021-adam-reece/) |
+| 3-4  | HTML Basics                                                | - Learn about [HTML](https://www.w3schools.com/html/) syntax<br>- Build a personal portfolio webpage | - [HTML Introduction - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction) |
+| 5-6  | CSS Fundamentals                                          | - Understand [CSS](https://www.w3schools.com/css/) properties and styling techniques<br>- Style your portfolio page | - [CSS Basics - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) |
 
 **Project Ideas:**
 1. Personal Portfolio Website
@@ -34,10 +34,9 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 
 | Week | Goals                                                      | Tasks                                                  | Resources                                                 |
 |------|------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
-| 1-2  | Intermediate CSS                                           | - Learn about layout and positioning<br>- Create a responsive blog page | - Learn CSS layout and positioning: [CSS Layout - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)<br>- Responsive Web Design basics: [Responsive Web Design Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/design-and-ux/responsive) |
-| 3-4  | Introduction to JavaScript                                | - Understand JavaScript fundamentals<br>- Build a simple interactive quiz | - JavaScript basics and fundamentals: [JavaScript Basics - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)<br>- Interactive JavaScript tutorial: [JavaScript Interactive Tutorial - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) |
-| 5-6  | DOM Manipulation and Events                               | - Practice modifying web pages using JavaScript<br>- Create a dynamic to-do list application | - Introduction to the DOM: [Introduction to the DOM - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)<br>- JavaScript events and event handling: [Introduction to events - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)<br>- Dynamic Web Pages with JavaScript: [Dynamic Web Pages with JavaScript - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) |
-
+| 1-2  | Intermediate CSS                                           | - Learn about layout and positioning<br>- Create a responsive blog page | - [CSS Layout - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)<br>- [Responsive Web Design Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/design-and-ux/responsive) |
+| 3-4  | Introduction to JavaScript                                | - Understand JavaScript fundamentals<br>- Build a simple interactive quiz | - [JavaScript Basics - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)<br>- [JavaScript Interactive Tutorial - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) |
+| 5-6  | DOM Manipulation and Events                               | - Practice modifying web pages using JavaScript<br>- Create a dynamic to-do list application | - [Introduction to the DOM - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)<br>- [Introduction to events - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)<br>- [Dynamic Web Pages with JavaScript - freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) |
 
 **Project Ideas:**
 1. Responsive Blog Website
@@ -50,11 +49,12 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
 
 ## Month 3
 
-| Week | Goals                                                      | Tasks                                                  |
-|------|------------------------------------------------------------|--------------------------------------------------------|
-| 1-2  | Deep Dive into JavaScript                                  | - Learn about [ES6 features](https://es6.io/)<br>- Build an interactive weather app |
-| 3-4  | Introduction to Frontend Frameworks                        | - Explore [React](https://reactjs.org/), [Angular](https://angular.io/), and [Vue.js](https://vuejs.org/)<br>- Choose a framework for your next projects |
-| 5-6  | Building Projects with a Frontend Framework               | - Build a personal blog using your chosen framework<br>- Create a portfolio showcasing your projects |
+| Week | Goals                                                      | Tasks                                                  | Resources                                                 |
+|------|------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| 1-2  | Deep Dive into JavaScript                                  | - Learn about [ES6 features](https://es6.io/)<br>- Build an interactive weather app | - [ES6 JavaScript Features - Wes Bos](https://es6.io/)<br>- [Weather App Tutorial - Traversy Media](https://www.youtube.com/watch?v=I250xdtUvy8) |
+| 3-4  | Introduction to Frontend Frameworks                        | - Explore [React](https://reactjs.org/), [Angular](https://angular.io/), and [Vue.js](https://vuejs.org/)<br>- Choose a framework for your next projects | - [React Documentation](https://reactjs.org/docs/getting-started.html)<br>- [Angular Getting Started Guide](https://angular.io/start)<br>- [Vue.js Guide](https://vuejs.org/v2/guide/) |
+| 5-6  | Building Projects with a Frontend Framework               | - Build a personal blog using your chosen framework<br>- Create a portfolio showcasing your projects | - React Blog Tutorial: [Building a Blog with React - freeCodeCamp](https://www.freecodecamp.org/news/building-a-blog-using-react-hooks-and-markdown-b2e30e14710c/)<br>- Angular Blog Tutorial: [Angular Blog Tutorial - Angular University](https://blog.angular-university.io/angular-tutorial-course-for-beginners/) |
+|      |                                                            |                                                        | - Vue.js Blog Tutorial: [Vue.js Blog with Authentication - The Net Ninja](https://www.youtube.com/watch?v=BGAu__J4xoc) |
 
 **Project Ideas:**
 1. Weather App
@@ -69,56 +69,60 @@ Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guid
    - Revamp your portfolio site using a frontend framework.
    - Showcase projects and skills with dynamic components.
 
+...
+
 ## Month 4
 
-| Week | Goals                                                      | Tasks                                                  |
-|------|------------------------------------------------------------|--------------------------------------------------------|
-| 1-2  | Introduction to Backend Development                       | - Explore backend languages like [Node.js](https://nodejs.org/) or [Python](https://www.python.org/)<br>- Set up a basic server |
-| 3-4  | Working with APIs and Databases                            | - Learn about RESTful APIs and [SQL databases](https://www.w3schools.com/sql/)<br>- Create a simple API-driven project |
-| 5-6  | Building a Backend Project                                 | - Build a full-stack project combining frontend and backend<br>- Implement user authentication and data storage |
+| Week | Goals                                                      | Tasks                                                  | Resources                                                 |
+|------|------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| 1-2  | Introduction to Backend Development                       | - Explore backend languages like [Node.js](https://nodejs.org/) or [Python](https://www.python.org/)<br>- Set up a basic server | - [Node.js Documentation](https://nodejs.org/docs/latest/api/)<br>- [Python Official Documentation](https://docs.python.org/3/) |
+| 3-4  | Working with APIs and Databases                            | - Learn about RESTful APIs and [SQL databases](https://www.w3schools.com/sql/)<br>- Create a simple API-driven project | - [REST API Concepts - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)<br>- [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/default.asp) |
+| 5-6  | Building Backend Services                                 | - Develop a basic API using your chosen backend language<br>- Connect to a database and perform CRUD operations | - [Node.js API Building Tutorial - Traversy Media](https://www.youtube.com/watch?v=3J925kFMi7M)<br>- [Python Flask API Tutorial - Corey Schafer](https://www.youtube.com/watch?v=MwZwr5Tvyxo) |
 
 **Project Ideas:**
-1. To-Do List App with Backend
-   - Create a full-stack to-do list app using Node.js and MongoDB.
-   - Implement user authentication and store tasks in a database.
+1. RESTful API Project
+   - Build a simple API that serves data to a frontend application.
+   - Implement CRUD (Create, Read, Update, Delete) operations.
 
-2. Blog Platform
-   - Develop a blog platform where users can write and publish posts.
-   - Use a backend framework like Express to manage posts and users.
+2. To-Do List API
+   - Create a backend API for managing a to-do list.
+   - Connect it to a database for data storage.
 
 ## Month 5
 
-| Week | Goals                                                      | Tasks                                                  |
-|------|------------------------------------------------------------|--------------------------------------------------------|
-| 1-2  | Full-Stack Integration                                     | - Enhance your full-stack project with additional features and functionality |
-| 3-4  | Version Control and Collaboration                          | - Learn advanced [Git concepts](https://git-scm.com/doc) and use platforms like [GitHub](https://github.com/)<br>- Collaborate on an open-source project |
-| 5-6  | Deploying Web Applications                                 | - Deploy your full-stack project to platforms like [Heroku](https://www.heroku.com/) or [Netlify](https://www.netlify.com/) |
+| Week | Goals                                                      | Tasks                                                  | Resources                                                 |
+|------|------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| 1-2  | Version Control and Collaboration                          | - Learn advanced Git techniques<br>- Collaborate on a project using Git | - [Advanced Git Tutorials - Atlassian](https://www.atlassian.com/git/tutorials/advanced-overview)<br>- [GitHub Collaboration Guide](https://docs.github.com/en/github/collaborating-with-pull-requests) |
+| 3-4  | Deployment and Hosting                                    | - Understand the deployment process<br>- Deploy a project using [Netlify](https://www.netlify.com/) or [Heroku](https://www.heroku.com/) | - [Netlify Deployment Guide](https://docs.netlify.com/site-deploys/overview/)<br>- [Heroku Getting Started Guide](https://devcenter.heroku.com/start) |
+| 5-6  | Web Performance Optimization                               | - Learn about website performance optimization<br>- Optimize a website for speed and efficiency | - [Web Performance Basics - Google Developers](https://developers.google.com/web/fundamentals/performance) |
 
 **Project Ideas:**
-1. E-Commerce Website
-   - Build an e-commerce site with product listings and a shopping cart.
-   - Implement payment processing using a service like Stripe.
+1. Personal Website Deployment
+   - Deploy your portfolio website using Netlify or Heroku.
+   - Set up a custom domain and HTTPS.
 
-2. Social Media Platform
-   - Create a social media platform where users can post and interact.
-   - Use real-time features for notifications and updates.
+2. Performance-Optimized Site
+   - Optimize the performance of a web page.
+   - Implement techniques like image optimization and lazy loading.
 
 ## Month 6
 
-| Week | Goals                                                      | Tasks                                                  |
-|------|------------------------------------------------------------|--------------------------------------------------------|
-| 1-2  | Resume Building and Portfolio                              | - Create a polished resume highlighting your skills and projects<br>- Set up a personal portfolio website |
-| 3-4  | Interview Preparation                                      | - Study data structures and algorithms with [LeetCode](https://leetcode.com/) and [HackerRank](https://www.hackerrank.com/)<br>- Practice solving coding challenges |
-| 5-6  | Mock Interviews and Networking                            | - Practice coding interviews on [Pramp](https://www.pramp.com/) and expand your professional network |
+| Week | Goals                                                      | Tasks                                                  | Resources                                                 |
+|------|------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| 1-2  | Resume Building and Interview Preparation                 | - Create a polished web developer resume<br>- Practice common interview questions | - [Web Developer Resume Tips - Indeed](https://www.indeed.com/career-advice/resumes-cover-letters/web-developer-resume-sample)<br>- [Common Web Developer Interview Questions - Glassdoor](https://www.glassdoor.com/blog/common-web-developer-interview-questions/) |
+| 3-4  | Final Projects and Portfolio                              | - Work on 2-3 portfolio projects<br>- Update your personal portfolio website | - Showcase your creativity and skills with unique projects |
+| 5-6  | Continuous Learning and Beyond                            | - Explore advanced topics or specialized areas<br>- Contribute to open-source projects | - Keep learning and growing as a developer |
 
-**Project Ideas:**
-1. Online Portfolio Platform
-   - Create a platform where users can build and showcase their portfolios.
-   - Allow users to customize design and content.
+**Final Projects:**
+1. E-Commerce Website
+   - Build a full-fledged online store with product listings, shopping cart, and checkout functionality.
+   - Implement user authentication and payment integration.
 
-2. Interactive Learning Platform
-   - Build an interactive platform for learning coding concepts.
-   - Implement quizzes, coding challenges, and progress tracking.
+2. Social Media Platform
+   - Create a platform where users can post, comment, and interact with each other.
+   - Incorporate features like user profiles, likes, and real-time updates.
+
+Congratulations! You've completed the 6-month web development training roadmap. Keep refining your skills, building new projects, and exploring new technologies to stay at the forefront of the ever-evolving web development landscape.
 
 ## Web Development Jobs
 
