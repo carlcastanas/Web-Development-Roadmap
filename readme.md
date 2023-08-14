@@ -1,4 +1,16 @@
-# 6-Month Web Development Training Roadmap
+<div align="center">
+  <img src="./assets/img/image.gif" alt="Icreatechs Logo">
+  <h3>6-Month Web Development Training Roadmap</h3>
+  <div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/carlcastanas/IT-curriculum-guide)](https://github.com/carlcastanas/IT-curriculum-guide/network/members)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/company/icreatechs-aus)](https://www.linkedin.com/company/icreatechs-aus)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=carlcastanas.Web-Development-Roadmap)
+
+</div>
+
+</div>
 
 Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guide is designed to take you from a beginner to a confident web developer in just 6 months. The roadmap is structured into months and provides a clear plan for your learning journey.
 
