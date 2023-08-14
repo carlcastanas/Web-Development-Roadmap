@@ -12,6 +12,8 @@
 
 </div>
 
+## Summary
+
 Welcome to the 6-Month Web Development Training Roadmap! This comprehensive guide is designed to take you from a beginner to a confident web developer in just 6 months. The roadmap is structured into months and provides a clear plan for your learning journey.
 
 ## Table of Contents
